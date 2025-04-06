@@ -1,5 +1,5 @@
-langchain-mcp-adapters
-langchain
-langchain-groq
-python-dotenv
-langgraph
+langchain-mcp-adapters==0.0.7
+langchain==0.3.23
+langchain-groq==0.3.2
+python-dotenv==1.1.0
+langgraph==0.3.25
